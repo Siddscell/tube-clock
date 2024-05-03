@@ -5,20 +5,11 @@ This repository contains examples and tutorials for the web technologies HTML, S
 Using This : 
 
 ```
-$ git clone https://github.com/naveen-kumawat/Tube-Clock.git
+$ git clone https://github.com/Siddscell/Tube-Clock.git
 ```
-
-### Follow Youtube Video For more steps 
-
-```
-Click on Youtube Icon 👇
-```
-<a href="https://www.youtube.com/@search4code?sub_confirmation=1">
-  <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="80">
-</a>
 
 ## Live Preview
-Click 👉 [here](https://naveen-kumawat.github.io/Tube-Clock/) to view the live demo 😍.
+Click 👉 [here](https://Siddscell.github.io/Tube-Clock/) to view the live demo 😍.
 
 ## Result Images 
-![Tube Clock ](https://github.com/naveen-kumawat/Tube-Clock/assets/63699592/36424126-f06f-4053-9353-c727fafaf89f)
+![Tube Clock ](https://github.com/Siddscell/Tube-Clock/assets/63699592/36424126-f06f-4053-9353-c727fafaf89f)
